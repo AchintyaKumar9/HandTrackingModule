@@ -1,3 +1,5 @@
+# This is a program made with openCV
+
 import cv2
 import mediapipe as mp
 import time
@@ -54,3 +56,4 @@ def main():
         cv2.waitKey(1)    
 if __name__ == "__main__":
     main()
+# End of the program
